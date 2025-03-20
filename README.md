@@ -1,6 +1,6 @@
-# Profile Website
+# Profile
 
-A responsive Profile site for the GrowthLink Web Development Assignment.
+A responsive portfolio website built for the GrowthLink Web Development Assignment.
 
 ## Task Objectives
 - About: Intro about me.
